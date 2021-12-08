@@ -1,6 +1,4 @@
-### Hi there 👋
-
-🌱 I’m currently learning JavaScript and React 🔭 - Right now I am working on our final project - a react websocket chat app - using redux, socket.io and react three fiber.
+<img src="https://github.com/puckfried/puckfried/blob/main/giphy.gif" width="100%" height="100%"></img>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=puckfried)](https://github.com/anuraghazra/github-readme-stats)
 
