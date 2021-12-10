@@ -8,6 +8,8 @@
   <i>gif by Barabara_Pozi</i>
 </p>
 
+<br></br>
+
 ## TECH STACK
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
@@ -23,6 +25,12 @@
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white"></img>
+
+<br></br>
+
+
+## I AM DOING WHAT?
+Right now working on our final project, [KoKo3d - a 3d Chat application](https://koko3d.herokuapp.com) using, React, Redux Toolkit, SocketIo, React Three Fiber.[The repo](https://github.com/chat-app-but-with-3d-fun) is still missing a usefull readme...
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=puckfried)](https://github.com/anuraghazra/github-readme-stats)
