@@ -25,6 +25,6 @@
 <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white"></img>
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=puckfried)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=puckfried)](https://github.com/anuraghazra/github-readme-stats)
+</p>
