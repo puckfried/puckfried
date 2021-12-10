@@ -1,5 +1,5 @@
 <a href="https://giphy.com/channel/Barbara_Pozzi">
-  <p align="center>
+  <p align="center">
     <img src="https://github.com/puckfried/puckfried/blob/main/giphy.gif" width="50%" height="50%"></img>
   </p>
 </a>
