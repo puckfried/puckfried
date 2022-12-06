@@ -30,7 +30,7 @@
 
 
 ## I AM DOING WHAT?
-Right now working on our final project, [KoKo3d - a 3d Chat application](https://koko3d.herokuapp.com) using, React, Redux Toolkit, SocketIo, React Three Fiber.[The repo](https://github.com/chat-app-but-with-3d-fun) is still missing a usefull readme...
+Right now working on ThreeJS... 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=puckfried)](https://github.com/anuraghazra/github-readme-stats)
