@@ -1,6 +1,6 @@
 ## HELLO 
 <p align="center"> 
-
+I like computers...
 </p>
 
 <br></br>
